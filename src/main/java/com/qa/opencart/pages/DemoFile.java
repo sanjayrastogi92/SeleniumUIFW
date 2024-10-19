@@ -2,6 +2,6 @@ package com.qa.opencart.pages;
 
 public class DemoFile {
 	
-	int a ="10";
+	int name ="Sanjay"";
 
 }
